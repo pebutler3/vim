@@ -20,7 +20,7 @@ let NERDTreeMinimalUI=1
 """"""""""""""""""""""""
 " VIM UI
 """""""""""""""""""""""""
-colorscheme inori
+" colorscheme inori
 set encoding=utf-8
 syntax enable
 set so=7         "set 7 lines to the cursor - when moving vertically using j/k
@@ -67,5 +67,5 @@ set list
 set list listchars=tab:\|_,trail:·
 set noswapfile
 
-let g:auto_save = 1
+"let g:auto_save = 1
 let g:user_emmet_leader_key='<tab>'
