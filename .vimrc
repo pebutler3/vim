@@ -17,10 +17,11 @@ endif
 " au VimEnter *  NERDTree
 nnoremap <C-e> :NERDTreeToggle<CR>
 let NERDTreeMinimalUI=1
+let NERDTreeShowHidden=1
 """"""""""""""""""""""""
 " VIM UI
 """""""""""""""""""""""""
-" colorscheme inori
+" colorscheme
 set encoding=utf-8
 syntax enable
 set so=7         "set 7 lines to the cursor - when moving vertically using j/k
