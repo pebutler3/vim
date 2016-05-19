@@ -32,7 +32,7 @@ set laststatus=2
 set wildmenu     "better command line completion
 set ts=2
 let g:airline_powerline_fonts = 1
-let g:airline_theme='ubaryd'
+let g:airline_theme='bubblegum'
 
 " Changed VertSplit from tilde to • and changed color to hide characters
 set fillchars+=vert:•  " Changes character used in vertical splits
