@@ -21,7 +21,7 @@ let NERDTreeMinimalUI=1
 let NERDTreeShowHidden=1
 
 """"""""""""""""""""""""
-Mouse Support
+" Mouse Support
 """"""""""""""""""""""""
 set mouse=a
 
