@@ -28,7 +28,9 @@ set mouse=a
 """"""""""""""""""""""""
 " VIM UI
 """""""""""""""""""""""""
-" colorscheme
+colorscheme deep-space
+let base16colorspace=256
+set background=dark
 set encoding=utf-8
 syntax enable
 set so=7         "set 7 lines to the cursor - when moving vertically using j/k
@@ -39,7 +41,7 @@ set laststatus=2
 set wildmenu     "better command line completion
 set ts=2
 let g:airline_powerline_fonts = 1
-let g:airline_theme='bubblegum'
+let g:airline_theme='deep_space'
 
 " Changed VertSplit from tilde to • and changed color to hide characters
 set fillchars+=vert:•  " Changes character used in vertical splits
