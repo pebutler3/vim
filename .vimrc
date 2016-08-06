@@ -87,3 +87,6 @@ set noswapfile
 
 "let g:auto_save = 1
 let g:user_emmet_leader_key='<tab>'
+
+"React highlighting"
+let g:jsx_ext_required = 0
