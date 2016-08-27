@@ -9,6 +9,11 @@ else
 endif
 
 """""""""""""""""""""""""
+" smartindent
+"""""""""""""""""""""""""
+" set autoindent
+
+"""""""""""""""""""""""""
 " NERDTree
 
 " 1.) Auto-open vim
