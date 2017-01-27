@@ -11,7 +11,7 @@ endif
 """""""""""""""""""""""""
 " smartindent
 """""""""""""""""""""""""
-" set autoindent
+set autoindent
 
 """""""""""""""""""""""""
 " NERDTree
@@ -24,6 +24,7 @@ endif
 nnoremap <C-e> :NERDTreeToggle<CR>
 let NERDTreeMinimalUI=1
 let NERDTreeShowHidden=1
+let NERDTreeMouseMode=2
 
 """"""""""""""""""""""""
 " Mouse Support
@@ -33,7 +34,7 @@ set mouse=a
 """"""""""""""""""""""""
 " VIM UI
 """""""""""""""""""""""""
-colorscheme deep-space
+"colorscheme deep-space
 let base16colorspace=256
 set background=dark
 set encoding=utf-8
